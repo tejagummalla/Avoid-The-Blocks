@@ -2,7 +2,7 @@
 
 This is a Python based game made using the PyGame library. The objective of the 
 game is to avoid the falling blocks by using the arrow keys to move your race car. The difficulty
-of the increaces propotional to the number of blocks avoided.
+of the game increaces propotional to the number of blocks avoided.
 
 ## Game Help
 
