@@ -6,9 +6,10 @@ of the game increaces propotional to the number of blocks avoided.
 
 ## Game Help
 
-1. Hit any key to start the game. Use the <- and -> arrows to move the car horizontally.
+1. Hit GO! button to start the game. Use the <- and -> arrows to move the car horizontally.
 1. Do not hit the sides as that ends the game.
 1. You can also move the car forward (Not Suggested!) use the up and down arrow.
+1. Press 'P' to pause the game at any point.
 
 ## Running the Game
 
